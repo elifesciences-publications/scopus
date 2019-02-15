@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Himmelstein et al., "Research: Sci-Hub provides access to nearly all scholarly literature". eLife, 2018. http://dx.doi.org/10.7554/eLife.32822
+
+
 # Tidying and mapping Scopus and Journal Metrics data
 
 This repository creates user-friendly (tidy) TSVs of data from [Scopus](https://www.elsevier.com/solutions/scopus/content) and [Journal Metrics](http://www.journalmetrics.com/values.php) and converts data to NLM journal IDs for PubMed integration. Data pulled from Scopus include journal subject areas and open access status. Data pulled from Journal Metrics include journal three measures (`CiteScore`, `SJR`, `SNIP`) of journal prestige and a Scopus–ISSN mapping.
